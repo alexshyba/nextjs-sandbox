@@ -4,4 +4,4 @@
   command = "npm run export"
 
 [[plugins]]
-package = "netlify-plugin-a11y"
+package = "netlify-plugin-cache-nextjs"
